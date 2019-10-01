@@ -67,3 +67,10 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+
+##
+## MARK: Rails Tutorial
+##
+
+# Ignore Spring files.
+/spring/*.pid
